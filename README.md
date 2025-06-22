@@ -1,6 +1,6 @@
 ﻿# YouTube
 
-Live : #https://yt-kk.netlify.app
+Live : https://yt-kk.netlify.app
 
 📺 Video Player
 * Embedded YouTube-style video player (using ReactPlayer)
