@@ -1,0 +1,30 @@
+.logo {
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 23px;
+}
+
+.ThreeLineIcon:hover {
+    border-radius: 100%;
+    background-color: #e9e8e8;
+    cursor: pointer;
+}
+
+.searchLogo {
+    background-color: #f1f1f2;
+}
+
+.MicroPhone {
+    background-color: #f1f1f2;
+    border-radius: 100%;
+    padding: 3px;
+}
+
+.MicroPhone:hover {
+    background-color: #ccc;
+}
+
+.lastHover:hover {
+    background-color: #e9e8e8;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+
+=> npm create vite
+=> npm i
+=> npm i tailwind @tailwindcss/vite 
+=> npm i react-router-dom
+=> npm i axios
+=> npm i moment
+=> npm i millify
+=> npm i react-player
+=> npm i react-icons
