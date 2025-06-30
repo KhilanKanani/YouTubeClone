@@ -1,4 +1,4 @@
-﻿# YouTube
+﻿# YouTubeClone
 
 Live : https://yt-kk.netlify.app
 
